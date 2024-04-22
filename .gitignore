@@ -32,7 +32,10 @@ local.properties
 *.iml
 *.hprof
 .cxx/
-*.keystore
+# BUCK
+buck-out/
+\.buckd/
+*.keystore. 
 
 
 # node.js
