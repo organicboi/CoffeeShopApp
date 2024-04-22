@@ -1,7 +1,8 @@
 # OSX
 #
 .DS_Store
-
+# Ignore debug keystore file
+.android/app/debug.keystore
 # Xcode
 #
 build/
